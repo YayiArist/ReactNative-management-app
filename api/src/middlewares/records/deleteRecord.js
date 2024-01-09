@@ -2,7 +2,7 @@ const { Record, User } = require("../../database/index");
 const { response } = require("../../utils");
 
 module.exports = async (req, res) => {
-    const {datos que recibe incluido el ID } =
+    const {/* datos que recibe incluido el ID  */} =
       req.recordData;
   
     let record = await Record.findById({ recordId });
