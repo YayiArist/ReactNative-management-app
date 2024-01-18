@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet,  ScrollView } from 'react-native';
 import { RadioButton } from 'react-native-paper';
-import Dropdown from 'recat-native-customizable-array-dropdown' 
+
 
 
 
